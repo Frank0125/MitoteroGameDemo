@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AlienWipe
+  m_Controller: {fileID: 9100000, guid: 0f1b4b8ef92f034418e8f1a33018bbeb, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: dd2d03036d997b846a267f8a4514882a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f4fd92daa181ada4cb5cd3bd926f9bb4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0cda61ad99a006042bc8f9969790b709, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3877494b69ca7ed47a631cd1c2c95001, type: 2}
